@@ -5,6 +5,8 @@ I was always passionate about CS, but in 2024 I knew that I also wanted to know 
 
 I presented this project with the following posters at my school’s Celebration of Innovation: a STEM symposium featuring over 50 researchers and more than 400 attendees. While my research partner Eloise S focused on references and figure explanations, I performed model modifications, generated the training/results graphs, and wrote the discussion.
 
+Note: Generative AI was used to assist with both coding and documentation in this project. All AI-generated code was reviewed and tested before analysis. Analysis decisions and results reflect my own work.
+
 ### Poster 1: Introduction, Methods, and Training Data
 <img width="1356" height="913" alt="image" src="https://github.com/user-attachments/assets/fb51212b-92bb-47f7-a0f6-16f0441ebe28" />
 
